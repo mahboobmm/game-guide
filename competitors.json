@@ -1,6 +1,5 @@
-[
-    {
-        "name": "competitor_economy1",
+{
+    "competitor_economy1": {
         "m": 19, 
         "f": 24,
         "s": 10,
@@ -11,8 +10,7 @@
         "e": -11, 
         "cost": 15907
     },
-    {
-        "name": "competitor_env1",
+    "competitor_env1": {
         "m": 16, 
         "f": 33,
         "s": 15,
@@ -23,8 +21,7 @@
         "e": 36, 
         "cost": 36281
     },
-    {
-        "name": "competitor_fam1",
+    "competitor_fam1": {
         "m": 30, 
         "f": 14,
         "s": 20,
@@ -35,8 +32,7 @@
         "e": -3, 
         "cost": 33179
     },
-    {
-        "name": "competitor_balanced1",
+    "competitor_balanced1": {
         "m": 20, 
         "f": 41,
         "s": 15,
@@ -47,8 +43,7 @@
         "e": 15, 
         "cost": 28687
     },
-    {
-        "name": "competitor_joy1",
+    "competitor_joy1": {
         "m": 50, 
         "f": 70,
         "s": 60,
@@ -59,8 +54,7 @@
         "e": 10,
         "cost": 200000
     },
-    {
-        "name": "competitor_joy2",
+     "competitor_joy2": {
         "m": 40, 
         "f": 70,
         "s": 60,
@@ -71,8 +65,7 @@
         "e": 10, 
         "cost": 175000
     },
-    {
-        "name": "competitor_joy3",
+     "competitor_joy3": {
         "m": 39, 
         "f": 90,
         "s": 50,
@@ -83,4 +76,4 @@
         "e": 1, 
         "cost": 200000
     }
-]
+}
